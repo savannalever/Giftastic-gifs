@@ -1,0 +1,13 @@
+.btn-primary {
+	margin-right: 8px;
+	background-color: rgb(75, 174, 255);
+	border-color: rgb(75, 174, 255);
+	border-width: 2px;
+}
+
+
+.btn-primary:hover {
+	background-color: rgb(75, 174, 255);
+	border-color: black;
+}
+
